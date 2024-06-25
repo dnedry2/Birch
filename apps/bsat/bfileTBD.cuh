@@ -1,0 +1,1 @@
+void calcDTOACUDA(double* out, const double* in, const bool* mask, unsigned long elCount);

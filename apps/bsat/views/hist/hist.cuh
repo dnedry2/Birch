@@ -1,0 +1,1 @@
+double* buildHistCUDA(const double* data, const bool* mask, unsigned long dataLen, uint bins, double min, double max);
